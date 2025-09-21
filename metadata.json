@@ -1,0 +1,5 @@
+{
+  "name": "Corn Doctor AI",
+  "description": "An AI-powered web application to identify and get treatment information for common corn plant diseases like Blight, Rust, and Gray Leaf Spot by uploading a photo.",
+  "requestFramePermissions": []
+}
