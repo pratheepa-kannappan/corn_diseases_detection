@@ -19,7 +19,7 @@ An AI-powered Streamlit web app to detect corn plant diseases from leaf images.
 ## Setup
 
 ### 1. Install Dependencies
--crate a virtual envirement and install the requirements
+- Crate a virtual envirement and install the requirements
 ```bash
 python -m venv .venv
 python --version
@@ -28,10 +28,10 @@ pip install -r requirements.txt
 ```
 
 ### 2. dowmload the dataset
--Download the dataset from kaggle
--Create model from model folder
--select best model
--Download the best model
+- Download the dataset from kaggle
+- Create model from model folder
+- Select best model
+- Download the best model
 
 
 ### 2. Place Your Model
