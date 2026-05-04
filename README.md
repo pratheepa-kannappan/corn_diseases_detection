@@ -4,7 +4,6 @@ An AI-powered Streamlit web app to detect corn plant diseases from leaf images.
 
 ## Features
 - 🔬 Deep learning model inference (ResNet / EfficientNet)
-- 🤖 AI explanation via Claude (Anthropic API) with image understanding
 - 📥 PDF report download with full diagnosis details
 - 📚 Built-in disease library for 4 corn conditions
 - 🎨 Beautiful custom UI matching your design mockups
